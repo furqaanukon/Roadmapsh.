@@ -1,0 +1,61 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+body {
+    min-height: 2000px;
+}
+hr {
+    color: black;
+}
+
+header {
+    padding-top: 30px;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+header > h3 {
+    color: rgb(3, 187, 3);
+    padding-top: 30px;
+}
+
+main { 
+    padding-left: 30px;
+}
+
+.skils {
+    padding-top: 40px;
+}
+
+.skils > h3  {
+    color: rgb(3, 187, 3);
+}
+
+.education > h3{
+    color: rgb(3, 187, 3);
+}
+
+.spesial {
+    color: rgb(9, 88, 190);
+}
+
+.education {
+    padding-top: 40px;
+}
+
+.experience {
+    padding-top: 40px;
+}
+
+#spesial {
+    color: rgb(9, 88, 190);;
+}
+
+.experience > h3 {
+    color: rgb(3, 187, 3);
+}
+
+.list {
+    padding-left: 20px;
+}
